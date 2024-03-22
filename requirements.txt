@@ -1,0 +1,10 @@
+requests
+PyQt5
+speechrecognition
+pandas
+numpy
+scikit-learn
+pytesseract
+Pillow
+googletrans
+language-tool-python
